@@ -1,13 +1,12 @@
 # Dengue Cases Prediction & Risk Classification in São Paulo 🦟
 
-Project for the **Artificial Intelligence II** course: a machine learning system that predicts dengue cases and classifies epidemiological risk levels for municipalities in the State of São Paulo using climatic and historical data.
+Project for the **Artificial Intelligenc** course: a machine learning system that predicts dengue cases and classifies epidemiological risk levels for municipalities in the State of São Paulo using climatic and historical data.
 
 <p align="center">
 <img src="images/classification_result.png" alt="Dengue Risk Map São Paulo" width="600">
 </p>
 
 <div align="center">
-
 </div>
 
 ---
@@ -39,10 +38,7 @@ dengue-prediction-sp/
 │   ├── Confusion_matrices_classification.png
 │   ├── Regressionvsreal.png
 │   └── SP_prediction.png
-├── notebooks/
-│   └── T2deIA.ipynb       # Main Jupyter Notebook with training and evaluation
-├── scripts/               # Helper scripts for data cleaning (if applicable)
-├── requirements.txt       # Python dependencies
+├── T2deIA.ipynb
 └── README.md
 
 ```
